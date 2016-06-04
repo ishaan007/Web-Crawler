@@ -1,4 +1,4 @@
-#Web-Cralwer
+#Web-Crawler
 ##Python Code for a web crawler
 
 ####>>This project crawls this website to http://www.kic.ae/ and returns a csv file which contains 
